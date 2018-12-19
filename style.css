@@ -67,7 +67,6 @@ a:hover {
   display: none;
 }
 
-
 @media (max-width:880px) {
   .description {
     width: auto;
@@ -94,7 +93,6 @@ a:hover {
 
     }
 }}
-
 .selected {
   background-color: white;
 }
